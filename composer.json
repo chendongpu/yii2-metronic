@@ -1,0 +1,24 @@
+{
+    "name": "chendongpu/yii2-metronic",
+    "keywords": ["yii2","template","adminlte"],
+    "description": "Admin-LTE-2 Extension for Yii2",
+    "homepage": "https://github.com/chendongpu/yii2-metronic",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "chendongpu",
+            "email": "2323178881@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+
+    },
+    "autoload": {
+        "psr-4": {
+            "chendongpu\\yii2metronic\\": ""
+        }
+    }
+}
